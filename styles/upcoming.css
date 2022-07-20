@@ -1,0 +1,32 @@
+.flag {
+    padding: 40px 40px 5px 40px;
+}
+.flag-image {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.flag-image img {
+    width: 60%;
+}
+
+.team-vs {
+    padding: 0 10px;
+    font-weight: 600;
+    font-size: 0.8em;
+}
+
+.team-info {
+    text-align: center;
+}
+
+.team-info h3 {
+    font-size: 1em;
+}
+
+.team-info p {
+    font-size: 0.8em;
+    font-weight: 600;
+    color: lightgray;
+}
